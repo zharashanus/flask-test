@@ -1,2 +1,6 @@
 name: zharas
 number: 123
+git add .
+git commit -m
+git push
+
